@@ -24,3 +24,7 @@ Run the tests:
 ```text
 % pwsh -f Tests/Get-Planet.Tests.ps1
 ```
+
+## Output
+
+![Output](./.image.png)
